@@ -1,0 +1,2 @@
+# MagicRepository
+Moje pierwsze repozytorium
